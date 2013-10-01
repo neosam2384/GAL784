@@ -9,4 +9,19 @@ public class Test extends TestCase
     Yinsh jeuYinsh=new Yinsh();
     assertTrue (jeuYinsh.current_color()==couleur.BLACK || jeuYinsh.current_color()==couleur.WHITE);
   }
+  
+  
+  public void test_histoire2(){
+	  
+  }
+
+  public void test_histoire3(){
+	  
+  }
+
+  public void test_histoire4(){
+	  
+  }
+
+
 }
